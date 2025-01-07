@@ -89,6 +89,6 @@ Used Bootstrap Sampling to predict the mean nth-day price within each cluster.
 
 The clustering approach successfully grouped similar data points, demonstrating high-quality clustering metrics. While this method simplifies stock price trend analysis, further refinement could improve its predictive capabilities.
 
-## Project Outcome:
+## Project Outcomes
 
 The project successfully applied three distinct machine learning approaches—regression, classification, and clustering—to predict stock price trends. The regression approach demonstrated strong predictive performance with high accuracy, particularly in forecasting future prices, though further refinement is needed for real-world applicability. The classification approach established a solid foundation for predicting stock price movements, with reasonable accuracy in identifying stable price trends but room for improvement in predicting up or down trends. Lastly, the clustering approach effectively grouped stock data and predicted mean prices within clusters, achieving high-quality clustering scores. Overall, the project highlights the potential of machine learning techniques in stock price prediction, offering valuable insights for refining predictive models in future work.
